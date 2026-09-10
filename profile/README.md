@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/FRA_EIS.png" alt="Framo Morat" width="220">
+<img src="assets/FRA_EIS.png" alt="Framo Morat" width="300">
 
 # Framo Morat
 
