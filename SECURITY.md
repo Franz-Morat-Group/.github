@@ -16,11 +16,9 @@ Nutze stattdessen einen der folgenden vertraulichen Wege:
 1. **GitHub Private Vulnerability Reporting** – sofern im betreffenden
    Repository aktiviert: Tab **Security → Report a vulnerability**.
 2. **Per E-Mail (bevorzugt):**
-   - **IT-Infrastruktur:** Matthias Wiehl · m.wiehl@franz-morat.com ·
-     📞 +49 7657 88-170
    - **Software & Tools:** Lukas Müller · L.Mueller@framo-morat.com ·
      📞 +49 7657 88-376
-   - **Allgemein / IT-Team:** itteamapplication@franz-morat.com
+   - **IT-Team:** itteamapplication@franz-morat.com
 
 Bitte **keine** personenbezogenen oder vertraulichen Produktivdaten in die
 Meldung aufnehmen.
