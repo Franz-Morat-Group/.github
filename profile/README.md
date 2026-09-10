@@ -16,9 +16,6 @@ Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
 [![F. Morat](https://img.shields.io/badge/Automotive-F.%20Morat-005a44?style=flat&labelColor=141a24)](https://f-morat.com)
 [![Franz Morat Group](https://img.shields.io/badge/Gruppe-franz--morat.com-575756?style=flat&labelColor=141a24)](https://franz-morat.com)
 
-[![Code of Conduct](https://img.shields.io/badge/Richtlinie-Code%20of%20Conduct-0069b4?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/CODE_OF_CONDUCT.md)
-[![Security Policy](https://img.shields.io/badge/Sicherheit-Security%20Policy-005a44?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/SECURITY.md)
-
 </div>
 
 ---
@@ -38,8 +35,13 @@ Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
 
 ## Kontakt
 
-Fragen zu Repos oder Tools dieser Organisation: **it@franz-morat.com** · Allgemeine Anfragen über [franz-morat.com](https://franz-morat.com)
+Fragen zu Repositories oder Tools dieser Organisation? Die passenden Ansprechpartner für **Software**, **Prüflabor** und **IT-Infrastruktur** findest du im [Support-Leitfaden](https://github.com/Franz-Morat-Group/.github/blob/main/SUPPORT.md). Allgemeine IT-Anfragen: **itteamapplication@franz-morat.com** · Allgemeine Unternehmensanfragen über [franz-morat.com](https://franz-morat.com).
 
 <div align="center">
+
+[![Code of Conduct](https://img.shields.io/badge/Richtlinie-Code%20of%20Conduct-0069b4?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/CODE_OF_CONDUCT.md)
+[![Security Policy](https://img.shields.io/badge/Sicherheit-Security%20Policy-005a44?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/SECURITY.md)
+[![Support & Kontakt](https://img.shields.io/badge/Support-Kontakt%20%26%20Hilfe-575756?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/SUPPORT.md)
+
 <sub>Franz Morat Group · Eisenbach im Hochschwarzwald · Ihre Idee – Unser Antrieb</sub>
 </div>
