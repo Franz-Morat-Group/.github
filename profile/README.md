@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="profile/assets/FRA_EIS.png" alt="Framo Morat" width="220">
+<img src="assets/FRA_EIS.png" alt="Framo Morat" width="220">
 
 # Framo Morat
 
@@ -32,17 +32,6 @@ Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
 | Tochterfirmen | USA, Polen, Mexiko, Türkei |
 
 ---
-
-## Was in dieser Organisation liegt
-
-Web-basierte Engineering- und Auswertungs-Tools, Berechnungs-Rechner und interne Automatisierung. Der überwiegende Teil der Repositories ist privat.
-
-<!-- Repo-Tabelle hier pflegen; keine Platzhalter-Zeilen im Live-Stand stehen lassen. -->
-
-| Repository | Zweck | Status |
-|---|---|---|
-| [`design-guideline`](https://github.com/Franz-Morat-Group/design-guideline) | Verbindliche Frontend Design Guideline + `design-tokens.css` | aktiv |
-| [`screw-study`](https://github.com/Franz-Morat-Group/screw-study) | Anzieh-Drehmoment-Auswertung, Referenz-Implementierung der Guideline | aktiv |
 
 ## Kontakt
 
