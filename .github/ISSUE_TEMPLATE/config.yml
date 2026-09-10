@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "🔒 Sicherheitslücke melden"
+    url: https://github.com/Franz-Morat-Group/.github/blob/main/SECURITY.md
+    about: "Sicherheitsprobleme bitte vertraulich melden – nicht als öffentliches Issue."
+  - name: "💬 Support & Ansprechpartner"
+    url: https://github.com/Franz-Morat-Group/.github/blob/main/SUPPORT.md
+    about: "Allgemeine Fragen, IT-Anfragen und Kontakte zu Software, Prüflabor und IT-Infrastruktur."
+  - name: "🌐 Franz Morat Group"
+    url: https://franz-morat.com
+    about: "Allgemeine Unternehmensanfragen."

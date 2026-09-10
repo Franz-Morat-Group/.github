@@ -1,0 +1,54 @@
+name: "🐛 Bug melden"
+description: "Ein Fehler in einem Tool oder Repository der Franz Morat Group"
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für die Meldung! Bitte **keine** Zugangsdaten, Schlüssel oder
+        personenbezogenen Daten eintragen. Sicherheitslücken bitte vertraulich
+        gemäß [SECURITY.md](../blob/main/SECURITY.md) melden.
+  - type: input
+    id: tool
+    attributes:
+      label: "Betroffenes Tool / Repository"
+      placeholder: "z. B. screw-study"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "Was ist passiert?"
+      description: "Beschreibe den Fehler und was du stattdessen erwartet hast."
+      placeholder: "Erwartet: … / Tatsächlich: …"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Schritte zur Reproduktion"
+      placeholder: |
+        1. Gehe zu …
+        2. Klicke auf …
+        3. Fehler erscheint
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "Umgebung (optional)"
+      description: "Browser, Betriebssystem, Version/Branch, Screenshots."
+    validations:
+      required: false
+  - type: dropdown
+    id: severity
+    attributes:
+      label: "Schweregrad"
+      options:
+        - "Niedrig – kosmetisch / kleiner Fehler"
+        - "Mittel – Funktion eingeschränkt"
+        - "Hoch – Funktion nicht nutzbar"
+        - "Kritisch – Datenverlust / Sicherheit"
+    validations:
+      required: true

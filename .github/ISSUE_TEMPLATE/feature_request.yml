@@ -1,0 +1,48 @@
+name: "✨ Feature- / Tool-Wunsch"
+description: "Idee, Verbesserung oder neues Tool vorschlagen"
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für deine Idee! Beschreibe möglichst das **Problem** dahinter –
+        nicht nur die gewünschte Lösung.
+  - type: input
+    id: tool
+    attributes:
+      label: "Betroffenes Tool / Repository"
+      placeholder: "z. B. design-guideline (oder: neues Tool)"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Welches Problem soll gelöst werden?"
+      description: "Wer hat welchen Bedarf, in welcher Situation?"
+      placeholder: "Als … möchte ich …, damit …"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Vorgeschlagene Lösung"
+      description: "Wie könnte das aussehen? Skizzen/Screenshots willkommen."
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternativen / bisheriger Workaround"
+    validations:
+      required: false
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Dringlichkeit aus deiner Sicht"
+      options:
+        - "Nice to have"
+        - "Hilfreich"
+        - "Wichtig für die tägliche Arbeit"
+    validations:
+      required: false
