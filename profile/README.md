@@ -12,9 +12,12 @@
 **Franz Morat Group · Antriebstechnik aus dem Hochschwarzwald**
 Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
 
-[![Framo Morat](https://img.shields.io/badge/Industrie-Framo%20Morat-a9b4c2?style=flat&labelColor=141a24)](https://framo-morat.com)
-[![F. Morat](https://img.shields.io/badge/Automotive-F.%20Morat-a9b4c2?style=flat&labelColor=141a24)](https://f-morat.com)
-[![Franz Morat Group](https://img.shields.io/badge/Gruppe-franz--morat.com-a9b4c2?style=flat&labelColor=141a24)](https://franz-morat.com)
+[![Framo Morat](https://img.shields.io/badge/Industrie-Framo%20Morat-0069b4?style=flat&labelColor=141a24)](https://framo-morat.com)
+[![F. Morat](https://img.shields.io/badge/Automotive-F.%20Morat-005a44?style=flat&labelColor=141a24)](https://f-morat.com)
+[![Franz Morat Group](https://img.shields.io/badge/Gruppe-franz--morat.com-575756?style=flat&labelColor=141a24)](https://franz-morat.com)
+
+[![Code of Conduct](https://img.shields.io/badge/Richtlinie-Code%20of%20Conduct-0069b4?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/CODE_OF_CONDUCT.md)
+[![Security Policy](https://img.shields.io/badge/Sicherheit-Security%20Policy-005a44?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/SECURITY.md)
 
 </div>
 
