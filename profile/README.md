@@ -1,6 +1,7 @@
 <!--
-  Org-Profil-README  →  gehört nach:  .github/profile/README.md
-  Vor dem Commit anzupassen: Logo-Asset unter profile/assets/, Repo-Tabelle, Kontakt-Mail.
+  ÖFFENTLICHES Org-Profil  →  .github/profile/README.md
+  Sichtbar für ALLE Besucher von github.com/Franz-Morat-Group.
+  Interne Version (nur für Org-Mitglieder): Repo ".github-private", profile/README.md
 -->
 
 <div align="center">
@@ -8,7 +9,7 @@
 <img src="assets/FRA_EIS.png" alt="Framo Morat" width="300">
 
 **Franz Morat Group · Antriebstechnik aus dem Hochschwarzwald**
-Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
+Hochpräzise Zahnräder, Getriebekomponenten und komplette Antriebssysteme.
 
 [![Framo Morat](https://img.shields.io/badge/Industrie-Framo%20Morat-0069b4?style=flat&labelColor=141a24)](https://framo-morat.com)
 [![F. Morat](https://img.shields.io/badge/Automotive-F.%20Morat-005a44?style=flat&labelColor=141a24)](https://f-morat.com)
@@ -33,15 +34,8 @@ Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
 
 ## Kontakt
 
-Fragen zu Repositories oder Tools dieser Organisation? 
-Die passenden Ansprechpartner für **Software**, **Prüflabor** und **IT-Infrastruktur** findest du im [Support-Leitfaden](https://github.com/Franz-Morat-Group/.github/blob/main/SUPPORT.md). 
-Allgemeine IT-Anfragen: **itteamapplication@franz-morat.com**·
+Informationen zu Produkten, Standorten und Karriere sowie allgemeine Anfragen über [franz-morat.com](https://franz-morat.com).
 
 <div align="center">
-
-[![Code of Conduct](https://img.shields.io/badge/Richtlinie-Code%20of%20Conduct-0069b4?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/CODE_OF_CONDUCT.md)
-[![Security Policy](https://img.shields.io/badge/Sicherheit-Security%20Policy-005a44?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/SECURITY.md)
-[![Support & Kontakt](https://img.shields.io/badge/Support-Kontakt%20%26%20Hilfe-575756?style=flat&labelColor=141a24)](https://github.com/Franz-Morat-Group/.github/blob/main/SUPPORT.md)
-
 <sub>Franz Morat Group · Eisenbach im Hochschwarzwald · Ihre Idee – Unser Antrieb</sub>
 </div>
