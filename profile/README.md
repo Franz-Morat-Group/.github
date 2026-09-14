@@ -27,7 +27,7 @@ Interne Software-Tools rund um Zahnräder, Getriebe und Antriebssysteme.
 | Erfahrung Metallverarbeitung | über 110 Jahre |
 | Mitarbeitende | über 700 |
 | Umsatz | rund 115 Mio. € |
-| Tochterfirmen | USA, Polen, Mexiko, Türkei |
+| Standorte | Deutschland, USA, Polen, Mexiko, Türkei |
 
 ---
 
